@@ -32,7 +32,7 @@ exports.Message = Message;
 // var con = mysql.createConnection({
 //   host: 'localhost',
 //   user: 'root',
-//   password: 'LOschargers@123',
+//   password: '@123',
 //   database: 'chat'
 // });
 
